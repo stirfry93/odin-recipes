@@ -1,3 +1,8 @@
-body {
+#landing-page-body,
+#breakfast-body,
+#lunch-body,
+#cake-body {
+    color: rgb(99, 66, 52);
+    background-color: rgb(224, 175, 110);
     font-family: 'Courier New', Courier, monospace;
 }
