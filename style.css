@@ -3,10 +3,15 @@
 #lunch-body,
 #cake-body {
     color: rgb(99, 66, 52);
-    background-color: rgb(224, 175, 110);
+    background-color: rgb(255, 204, 127);
     font-family: 'Courier New', Courier, monospace;
 }
 
 .heading {
     color: darkred;
+}
+
+#kitchen {
+    height: auto;
+    width: 20%;
 }
