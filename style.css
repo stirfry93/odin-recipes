@@ -6,3 +6,7 @@
     background-color: rgb(224, 175, 110);
     font-family: 'Courier New', Courier, monospace;
 }
+
+.heading {
+    color: darkred;
+}
