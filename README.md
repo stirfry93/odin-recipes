@@ -1,2 +1,4 @@
 # odin-recipes
-I made a "recipes of Stardew Valley" website to demonstrate my HTML and CSS skills. This website is all original code I wrote myself from scratch. 
+I wrote my own, original code to make a "recipes of Stardew Valley" website to demonstrate my HTML and CSS skills.
+
+You may access the website at: https://stirfry93.github.io/odin-recipes/
